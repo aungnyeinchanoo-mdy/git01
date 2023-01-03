@@ -15,6 +15,9 @@ function myFunction() {
 
 <button type="button" onclick="myFunction()">Try it</button>
 <button> Button02 </button>
+<button>
+  Button03
+</button>
 
 </body>
 </html> 

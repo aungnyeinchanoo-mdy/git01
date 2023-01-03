@@ -13,7 +13,11 @@ p {
 <p>Hello World!</p>
 <p>These paragraphs are styled with CSS.</p>
 <button> Button01 </button>
+<<<<<<< HEAD
 <button> Button02 </button>
+=======
+<button> Button03 </button>
+>>>>>>> d786d2f (add button03)
 
 </body>
 </html>
