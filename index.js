@@ -1,17 +1,20 @@
 <!DOCTYPE html>
 <html>
+<head>
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+</script>
+</head>
 <body>
 
-<h2>Demo External JavaScript</h2>
+<h2>Demo JavaScript in Head</h2>
 
 <p id="demo">A Paragraph.</p>
 
 <button type="button" onclick="myFunction()">Try it</button>
 
-<p>This example links to "myScript.js".</p>
-<p>(myFunction is stored in "myScript.js")</p>
-
-<script src="myScript.js"></script>
-
 </body>
-</html>
+</html> 
+
