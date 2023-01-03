@@ -14,6 +14,7 @@ function myFunction() {
 <p id="demo">A Paragraph.</p>
 
 <button type="button" onclick="myFunction()">Try it</button>
+<button> Button02 </button>
 
 </body>
 </html> 
